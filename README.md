@@ -12,6 +12,7 @@
 [![Discord.py](https://img.shields.io/badge/discord.py-2.3+-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordpy.readthedocs.io/)
 [![ComfyUI](https://img.shields.io/badge/ComfyUI-Compatible-green?style=for-the-badge)](https://github.com/comfyanonymous/ComfyUI)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
+<img src="https://komarev.com/ghpvc/?username=promptpirate-x&repo=comfyui2discord&color=blue&style=for-the-badge&label=repo+views" />
 
 [Features](#-features) •
 [Installation](#-installation) •
