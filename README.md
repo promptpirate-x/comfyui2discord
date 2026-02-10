@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="assets/logo.png" alt="Prompt Pirate Logo" width="200" height="200" style="border-radius: 50%;">
+<img src="logo.png" alt="Prompt Pirate Logo" width="200" height="200" style="border-radius: 50%;">
 
 # 🏴‍☠️ ComfyUI Discord Bot
 
-### Generate AI images & videos directly from Discord using your local ComfyUI instance
+<h1> $${\color{purple}𝗖𝗢𝗠𝗜𝗡𝗚\ 𝗦𝗢𝗢𝗡}$$ </h1>
+
+### Generate AI images & videos directly from Discord using your local ComfyUI instance - Easy Setup, includes ComfyUI Autoinstaller with auto model and workflow downloads
 
 [![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Discord.py](https://img.shields.io/badge/discord.py-2.3+-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordpy.readthedocs.io/)
@@ -344,12 +346,13 @@ comfyui-discord-bot/
 - [x] Model/checkpoint browser
 - [x] Slash commands + prefix commands
 - [x] Real-time progress via WebSocket
-- [ ] Outpainting / image editing (`/edit` command)
-- [ ] Video generation workflows
-- [ ] Midjourney-style parameters (`--ar 16:9`, `--style raw`)
+- [x] Outpainting / image editing (`/edit` command)
+- [x] Video generation workflows
+- [x] Midjourney-style parameters (`--ar 16:9`, `--style raw`)
 - [ ] User preference memory
 - [ ] Generation history gallery
 - [ ] Prompt enhancement via AI
+- [ ] Export lora and model list to channel as a gallery with civati tags/triggers
 
 ---
 
@@ -373,8 +376,7 @@ This project is provided as-is for personal and educational use.
 
 <div align="center">
 
-**Made with 🏴‍☠️ by [Prompt Pirate](https://github.com/promptpirate-x)**
+**Made by [Prompt Pirate](https://github.com/promptpirate-x)**🏴‍☠️
 
-*Powered by [ComfyUI](https://github.com/comfyanonymous/ComfyUI) and [discord.py](https://discordpy.readthedocs.io/)*
 
 </div>
